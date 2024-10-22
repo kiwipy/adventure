@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=adventure
+Exec=adventure
+Icon=com.github.william_andersson.Adventure
+Terminal=false
+Type=Application
+Categories=Utility;
+Keywords=GTK;
+StartupNotify=true
+DBusActivatable=true

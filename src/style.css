@@ -1,0 +1,19 @@
+/* Text for story line */
+.textbox {
+    font-size: 24px;
+    font-weight: bold;
+    border-width: 1px;
+    border-radius: 5px;
+    border-color: @shade_color;
+    border-style: solid;
+    font-family: "Cantarell", sans;
+}
+.input {
+    font-size: 20px;
+    font-family: "Source Code Pro", monospace;
+}
+.prompt {
+    font-size: 18px;
+    font-weight: bold;
+    font-family: "Cantarell", sans;
+}

@@ -1,0 +1,3 @@
+[D-BUS Service]
+Name=com.github.william_andersson.Adventure
+Exec=@bindir@/adventure --gapplication-service

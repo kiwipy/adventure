@@ -1,0 +1,8 @@
+# List of source files containing translatable strings.
+# Please keep this file sorted alphabetically.
+data/com.github.william_andersson.Adventure.desktop.in
+data/com.github.william_andersson.Adventure.metainfo.xml.in
+data/com.github.william_andersson.Adventure.gschema.xml
+src/main.py
+src/window.py
+src/window.ui
