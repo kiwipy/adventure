@@ -4,8 +4,8 @@ Adventure is a client for classic text adventure games. Just load a compatible j
 ![Screenshot](https://github.com/william-andersson/adventure/blob/main/Screenshot.png)
 
 ## Make it work
-**Requirements: meson, ninja-build, cmake, glib2-devel**
-Build and install with **`./build.sh --install`** and then run **`adventure`** or **`adventure-cli /path/to/gamefile`** if you prefere the terminal :slightly_smiling_face:<br>
+**Requirements: meson, ninja-build, cmake, glib2-devel**<br>
+Build and install with **`./build.sh --install`** and then run **`adventure`** or **`adventure-cli /path/to/gamefile`** if you prefer the terminal :slightly_smiling_face:
 Game progress can be saved using the gui application's save function or by typing **`/save /path/to/savefile`** from the terminal interface.
 > [!NOTE]
 > Keep in mind that the save function saves the entire game to a new file or overwrites the original if chosen. To resume, all you have to do is loading the created save file.
@@ -14,7 +14,7 @@ Game progress can be saved using the gui application's save function or by typin
 The files in the demo directory have descriptive comments in the header. To prepare the files as a gamefile run: **`./compile.py`**
 
 > [!IMPORTANT]
-> :purple_square: Adventure is still in heavy development and things might change or break along the way!
+> :purple_square: Adventure is still in heavy development and things might change or break along the way!<br>
 > :purple_square: You should **NOT** create any full sized games until version 1 is released.
 
 ## Features planned for the future
