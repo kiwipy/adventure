@@ -1,4 +1,7 @@
 # Adventure
+> [!IMPORTANT]
+> This entire project is set for complete re-write sometime in the future and will not recieve any updates untill then.<br>
+
 Adventure is a client for classic text adventure games. Just load a compatible json gamefile to start playing! There is a small demo game in the demo directory wich can be modified and extended to create a fantastic text adventure for the enthusiast.
 
 ![Screenshot](https://github.com/william-andersson/adventure/blob/main/Screenshot.png)
